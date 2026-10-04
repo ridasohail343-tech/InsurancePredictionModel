@@ -1,6 +1,7 @@
 # Insurance Cost Prediction
 
 A Machine Learning project that predicts medical insurance charges based on personal and health-related information.
+https://insurancepredictionmodel-8flh8cjpxp8go8hcuzomxr.streamlit.app/
 
 ## Project Overview
 
